@@ -1,0 +1,43 @@
+name: spanish_noir
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  http: ^1.1.0
+  flutter_tts: ^4.2.2
+  sqflite: ^2.3.0
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  webview_flutter: ^4.4.2
+  url_launcher: ^6.3.0
+  shared_preferences: ^2.2.2
+  google_generative_ai: ^0.4.0
+  flutter_azure_tts: ^1.0.0
+  audioplayers: ^5.2.1
+  connectivity_plus: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ultimate_spanish_triple.db
+    - assets/spanish_stories.db
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "icon.png" # 改成這樣
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "icon.png" # 改成這樣

@@ -1,0 +1,76 @@
+[
+  {
+    "word": "Estudiante",
+    "translation": "學生",
+    "type": "n. m./f.",
+    "definition": "在學校或其他教育機構學習的人。",
+    "definition_es": "Persona que cursa estudios en un establecimiento de enseñanza.",
+    "singular": "estudiante",
+    "plural": "estudiantes",
+    "synonyms": ["Alumno", "Aprendiz"],
+    "antonyms": ["Profesor"],
+    "phrases": [
+      { "phrase": "Estudiante de intercambio", "meaning": "交換學生" }
+    ],
+    "examples": [
+      { "es": "El estudiante lee un libro en la biblioteca.", "zh": "這位學生正在圖書館讀一本書。(動作與場景)" },
+      { "es": "Soy un estudiante de intercambio en España.", "zh": "我是西班牙的交換學生。(身份介紹)" },
+      { "es": "Los estudiantes deben respetar las normas.", "zh": "學生們必須遵守校規。(規範與義務)" },
+      { "es": "Ese estudiante siempre llega temprano.", "zh": "那位學生總是準時到達。(特徵描述)" }
+    ]
+  },
+  {
+    "word": "Alumno",
+    "translation": "學員/弟子",
+    "type": "n. m.",
+    "definition": "在老師指導下學習的人，通常指有明確師徒關係或小學生。",
+    "definition_es": "Persona que recibe enseñanza de un maestro o profesor.",
+    "singular": "alumno",
+    "plural": "alumnos",
+    "synonyms": ["Estudiante"],
+    "antonyms": ["Maestro", "Profesor"],
+    "examples": [
+      { "es": "El alumno escucha con atención al maestro.", "zh": "學員專心地聽老師講課。" },
+      { "es": "Hay treinta alumnos en mi clase.", "zh": "我們班上有三十個學生。" },
+      { "es": "Es un antiguo alumno de esta escuela.", "zh": "他是這所學校的校友。" }
+    ]
+  },
+  {
+    "word": "Profesor",
+    "translation": "教授/老師",
+    "type": "n. m.",
+    "definition": "具備專業知識並在機構中傳授知識的人。",
+    "definition_es": "Persona que ejerce una profesoría.",
+    "singular": "profesor",
+    "plural": "profesores",
+    "synonyms": ["Maestro", "Docente"],
+    "antonyms": ["Estudiante", "Alumno"],
+    "examples": [
+      { "es": "El profesor explica la lección.", "zh": "教授正在講解課程。" },
+      { "es": "Hablo con mi profesor de historia.", "zh": "我正在和我的歷史老師談話。" },
+      { "es": "Es un profesor muy simpático.", "zh": "他是一位非常親切的老師。" }
+    ]
+  },
+  {
+    "word": "Comer",
+    "translation": "吃",
+    "type": "v. tr.",
+    "definition": "將食物嚼碎並吞入胃中以維持生命。",
+    "definition_es": "Masticar y deglutir un alimento sólido.",
+    "conjugation": {
+      "present": ["como", "comes", "come", "comemos", "coméis", "comen"]
+    },
+    "phrases": [
+      { "phrase": "Comerse a besos", "meaning": "狂吻 / 親個不停" },
+      { "phrase": "Comer fuera", "meaning": "在外就餐" }
+    ],
+    "synonyms": ["Alimentarse", "Ingerir"],
+    "antonyms": ["Ayunar"],
+    "examples": [
+      { "es": "Me gusta comer paella los domingos.", "zh": "我喜歡在星期天吃西班牙大鍋飯。(習慣)" },
+      { "es": "¿A qué hora quieres comer hoy?", "zh": "你今天想幾點吃飯？(日常詢問)" },
+      { "es": "Él come muy rápido por la prisa.", "zh": "他因為趕時間吃得很快。(動作描述)" },
+      { "es": "La madre se come a besos a su bebé.", "zh": "母親對著她的寶寶親個不停。(特殊片語用法)" }
+    ]
+  }
+]
